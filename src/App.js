@@ -446,7 +446,7 @@ const App = () => {
               justifyContent: 'center',
             }}
           >
-            <MDBRow center style={{marginTop: '2%'}} className='align-items-stretch'>
+            <MDBRow center style={{marginBottom: '1%', marginTop: '2.5%'}} className='align-items-stretch'>
               <MDBCol sm='3' className='d-flex'>
                 <MDBCard style={{ backgroundColor: 'rgba(251, 251, 251, 0.65)', marginTop: '15%'  }}>
                   <MDBRipple rippleColor='light' rippleTag='div' className='bg-image hover-overlay'>
@@ -490,9 +490,9 @@ const App = () => {
                   <MDBCardBody>
                     <MDBCardTitle>Hussain Mohammad Umar</MDBCardTitle>
                     <MDBCardText>
-                      Studente con competenze in diversi linguaggi di programmazione. In questo progetto, si è 
+                      Studente di informatica che in questo progetto si è 
                       occupato della realizzazione dell'interfaccia grafica. Per programmare la pagina web, 
-                      ha utilizzato il linguaggio di programmazione React JS.<br/> N.B. non ha più di 18 anni.
+                      ha utilizzato il linguaggio di programmazione React JS. N.B. non ha più di 18 anni.
                     </MDBCardText>
                   </MDBCardBody>
                 </MDBCard>
